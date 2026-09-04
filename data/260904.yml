@@ -7,7 +7,7 @@ about:
   head: 7d6a06d
   archived: false
   latestVersion: v0.0.1
-  collectedAt: 2026-09-04T19:33:48Z
+  collectedAt: 2026-09-04T21:00:36Z
 timeline:
   created: 2025-03-29
   lastCommit: 2025-07-13
@@ -81,5 +81,33 @@ total:
   openIssue: 93
   commit: 27
 ---
+path: /home/runner/.x-repo/github.com/lharries/whatsapp-mcp
+collectedAt: 2026-09-04T21:00:37Z
+loc:
+  Go:
+    code: 946
+    comments: 198
+    blanks: 204
+    files: 1
+  Python:
+    code: 940
+    comments: 34
+    blanks: 154
+    files: 3
+  Toml:
+    code: 11
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 102
+    blanks: 61
+    files: 1
+total:
+  code: 1917
+  comments: 334
+  blanks: 419
+  files: 6
 ---
 
