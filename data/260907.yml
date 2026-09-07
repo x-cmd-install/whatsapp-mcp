@@ -5,13 +5,13 @@ about:
   head: 7d6a06d
   archived: false
   latestVersion: "v0.0.1"
-  collectedAt: 2026-09-07T05:57:09Z
+  collectedAt: 2026-09-07T18:36:03Z
 timeline:
   created: 2025-03-29
   lastCommit: 2025-07-13
   lastRelease: 2025-04-06
 popularity:
-  star: 6235
+  star: 6238
   watcher: 51
   fork: 1297
   release: 1
@@ -80,7 +80,7 @@ total:
   commit: 27
 ---
 path: /home/runner/.x-repo/github.com/lharries/whatsapp-mcp
-collectedAt: 2026-09-07T05:57:10Z
+collectedAt: 2026-09-07T18:36:04Z
 loc:
   Go:
     code: 946
@@ -111,7 +111,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:57:10+00:00
+  collectedAt: 2026-09-07T18:36:04+00:00
   platform:
     darwin/arm64:
       name:  null
