@@ -7,7 +7,7 @@ WhatsApp MCP server
 - **Latest release**: `v0.0.1` (2025-04-06)
 - **Last commit**: 2025-07-13
 - **License**: MIT
-- **Stars**: 6245 · **Forks**: 1303 · **Open issues**: 127 · **Contributors**: 6
+- **Stars**: 6250 · **Forks**: 1307 · **Open issues**: 127 · **Contributors**: 6
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/whatsapp-mcp> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T06:05:46Z._
+_Last regenerated: 2026-09-09T20:42:50Z._
