@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.0.1"
   latestRelease: "v0.0.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T06:07:49Z
+  collectedAt: 2026-09-11T18:39:27Z
 timeline:
   created: 2025-03-29
   lastCommit: 2025-07-13
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2025-04-06
   lastPrerelease: 
 popularity:
-  star: 6253
+  star: 6254
   watcher: 52
-  fork: 1310
+  fork: 1311
   release: 1
   contributor: 6
-  pullRequest: 215
+  pullRequest: 216
   issue: 127
 language:
   Go: 39103
@@ -31,7 +31,7 @@ recent:
     since: 2026-08-12
     release: 0
     mergedPR: 0
-    openPR: 16
+    openPR: 17
     closedIssue: 11
     openIssue: 2
     commit: 0
@@ -39,7 +39,7 @@ recent:
     since: 2026-07-13
     release: 0
     mergedPR: 0
-    openPR: 26
+    openPR: 27
     closedIssue: 11
     openIssue: 5
     commit: 0
@@ -47,7 +47,7 @@ recent:
     since: 2026-06-13
     release: 0
     mergedPR: 0
-    openPR: 45
+    openPR: 46
     closedIssue: 11
     openIssue: 16
     commit: 0
@@ -55,7 +55,7 @@ recent:
     since: 2026-03-15
     release: 0
     mergedPR: 0
-    openPR: 84
+    openPR: 85
     closedIssue: 13
     openIssue: 32
     commit: 0
@@ -63,7 +63,7 @@ recent:
     since: 2025-09-16
     release: 0
     mergedPR: 0
-    openPR: 118
+    openPR: 119
     closedIssue: 15
     openIssue: 48
     commit: 0
@@ -71,20 +71,20 @@ recent:
     since: 2024-09-21
     release: 1
     mergedPR: 9
-    openPR: 144
+    openPR: 145
     closedIssue: 34
     openIssue: 93
     commit: 27
 total:
   release: 1
   mergedPR: 9
-  openPR: 144
+  openPR: 145
   closedIssue: 34
   openIssue: 93
   commit: 27
 ---
 path: /home/runner/.x-repo/github.com/lharries/whatsapp-mcp
-collectedAt: 2026-09-11T06:07:50Z
+collectedAt: 2026-09-11T18:39:28Z
 loc:
   Go:
     code: 946
