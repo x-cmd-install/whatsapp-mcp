@@ -36,7 +36,7 @@ Total: **1,897** lines of code across **6** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,277 · **Forks**: 1,324 · **Open issues**: 127 · **Contributors**: 6
+- **Stars**: 6,281 · **Forks**: 1,327 · **Open issues**: 127 · **Contributors**: 6
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **1,897** lines of code across **6** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 0 | 15 | 11 | 2 | 0 |
-| last60d | 2026-07-18 | 0 | 0 | 26 | 11 | 4 | 0 |
-| 90d | 2026-06-18 | 0 | 0 | 46 | 11 | 15 | 0 |
-| last180d | 2026-03-20 | 0 | 0 | 85 | 13 | 32 | 0 |
-| 360d | 2025-09-21 | 0 | 0 | 122 | 15 | 48 | 0 |
-| last720d | 2024-09-26 | 1 | 9 | 148 | 34 | 93 | 27 |
+| 30d | 2026-08-18 | 0 | 0 | 15 | 11 | 2 | 0 |
+| last60d | 2026-07-19 | 0 | 0 | 26 | 11 | 4 | 0 |
+| 90d | 2026-06-19 | 0 | 0 | 46 | 11 | 15 | 0 |
+| last180d | 2026-03-21 | 0 | 0 | 84 | 13 | 31 | 0 |
+| 360d | 2025-09-22 | 0 | 0 | 122 | 15 | 48 | 0 |
+| last720d | 2024-09-27 | 1 | 9 | 148 | 34 | 93 | 27 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for whatsapp-mcp lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:30:13Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:32:05Z._
