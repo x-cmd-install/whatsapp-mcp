@@ -4,7 +4,7 @@
 
 WhatsApp MCP server
 
-[![x-cmd/install — whatsapp-mcp Code Quality Monitoring Repo Card](https://repo.x-cmd.io/whatsapp-mcp.svg)](https://x-cmd.com/install/whatsapp-mcp)
+[![x-cmd/install — whatsapp-mcp Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/whatsapp-mcp.svg)](https://x-cmd.com/install/whatsapp-mcp)
 
 ## Install
 
@@ -36,7 +36,7 @@ Total: **1,897** lines of code across **6** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,303 · **Forks**: 1,333 · **Open issues**: 127 · **Contributors**: 6
+- **Stars**: 6,305 · **Forks**: 1,336 · **Open issues**: 127 · **Contributors**: 6
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **1,897** lines of code across **6** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 17 | 11 | 1 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 30 | 11 | 4 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 52 | 11 | 14 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 89 | 13 | 30 | 0 |
-| 360d | 2025-09-27 | 0 | 0 | 127 | 15 | 48 | 0 |
-| last720d | 2024-10-02 | 1 | 9 | 155 | 34 | 93 | 27 |
+| 30d | 2026-08-24 | 0 | 0 | 17 | 2 | 1 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 30 | 11 | 4 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 52 | 11 | 14 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 89 | 13 | 30 | 0 |
+| 360d | 2025-09-28 | 0 | 0 | 126 | 15 | 48 | 0 |
+| last720d | 2024-10-03 | 1 | 9 | 155 | 34 | 93 | 27 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for whatsapp-mcp lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:32:26Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:30:58Z._
